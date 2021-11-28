@@ -1,0 +1,1 @@
+[('dancing', '\n'), ('running', '\n'), ('singing', '\n'), ('reading', '\n'), ('drawing', '\n')]
